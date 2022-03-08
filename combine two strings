@@ -1,0 +1,6 @@
+x="hello "
+y="moto"
+print('str1:',x)
+print('str2:',y)
+c=x+y
+print(c)
